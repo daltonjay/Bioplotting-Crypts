@@ -11,21 +11,21 @@ The biggest drawback of gastrointestinal organoids, whether enteroid or colonoid
 
 
 
-**See Biological Relevance Page** [here](daltonjay/Bioplotting-Crypts/Biological-Relevance)
+**See Biological Relevance Page** [here](/Bioplotting-Crypts/Biological-Relevance)
 
 
 
-**See Mechanical Page** [here](daltonjay/Bioplotting-Crypts/Mechanical-Assembly)
+**See Mechanical Page** [here](/Bioplotting-Crypts/Mechanical-Assembly)
 
 
 
-**See Electrical Page** [here](daltonjay/Bioplotting-Crypts/Electrical-Assembly)
+**See Electrical Page** [here](/Bioplotting-Crypts/Electrical-Assembly)
 
 
 
-**See Arduino G-code Firmware** [here](daltonjay/Bioplotting-Crypts/Arduino-G-Code)
+**See Arduino G-code Firmware** [here](/Bioplotting-Crypts/Arduino-G-Code)
 
 
 
-**See Flow Rate Specs** [here](daltonjay/Bioplotting-Crypts/Specs)
+**See Flow Rate Specs** [here](/Bioplotting-Crypts/Specs)
 
