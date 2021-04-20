@@ -2,17 +2,18 @@
 
 ## The Intestine
 
-Cell Type      | Function
--------------- | -------------
-Enterocyte | Epithelial absorption, most abundant
-Goblet | Mucus secreting
-Enteroendocrine | Hormone production
+Cell Type      | Function   | Biomarker
+-------------- | -----------| -----------
+Enterocyte | Epithelial absorption, most abundant | SLC10A2
+Goblet | Mucus secreting | TFF3
+Enteroendocrine | Hormone production | CHGB
 Tuft | Prostanoid production, inflammation control
 M-cell | Antigen transport
+Paneth | Nurtures ISCs in crypt | DEFA5
 
 ![Biological Makeup of the Intestine](/BioPics/Bio1.jpg)
 
-The intestine is divided into two sections: the small intestine and the large intestine, or colon. The inner surface of each is lined by a simple epithelium and endothelium, separated by a basement membrane. While the small intestine epithelium is comprised of crypts and villus structures for the absoprtion of micronutrients, the colon only has crypts on its epithelial surface and primarily functions to compact the stool. Although there are differences between the two sections, the role of the crypt is the same: house the setm cells in the bottom third of the structure so they can differentiate upward towards the lumen. 
+The intestine is divided into two sections: the small intestine and the large intestine, or colon. The inner surface of each is lined by a simple epithelium and endothelium, separated by a basement membrane. While the small intestine epithelium is comprised of crypts and villus structures for the absoprtion of micronutrients, the colon only has crypts on its epithelial surface and primarily functions to compact the stool. Although there are differences between the two sections, the role of the crypt is the same: house the stem cells in the bottom third of the structure so they can differentiate upward towards the lumen. 
 
 ![Intestinal Stem Cell Differentiation](/BioPics/Bio2.jpg)
 
