@@ -71,18 +71,18 @@ Organoids derived from human tissue biopsies can be grown, frozen, and revived f
 
 ## References
 
-1.) Kasendra, Magdalena, Alessio Tovaglieri, Alexandra Sontheimer-Phelps, Sasan Jalili-Firoozinezhad, Amir Bein, Angeliki Chalkiadaki, William Scholl, et al. 2018. “Development of a Primary Human Small Intestine-on-a-Chip Using Biopsy-Derived Organoids.” Scientific Reports 8 (1): 2871. https://doi.org/10.1038/s41598-018-21201-7.
-2.) Gillette, Brian M., Jacob A. Jensen, Meixin Wang, Jason Tchao, and Samuel K. Sia. 2010. “Dynamic Hydrogels: Switching of 3D Microenvironments Using Two-Component Naturally Derived Extracellular Matrices.” Advanced Materials 22 (6): 686–91. https://doi.org/10.1002/adma.200902265.
-3.) Gjorevski, Nikolce, Norman Sachs, Andrea Manfrin, Sonja Giger, Maiia E. Bragina, Paloma Ordóñez-Morán, Hans Clevers, and Matthias P. Lutolf. 2016. “Designer Matrices for Intestinal Stem Cell and Organoid Culture.” Nature 539 (7630): 560–64. https://doi.org/10.1038/nature20168.
-4.) Haraldsen, G., J. Rugtveit, D. Kvale, T. Scholz, W. A. Muller, T. Hovig, and P. Brandtzaeg. 1995. “Isolation and Longterm Culture of Human Intestinal Microvascular Endothelial Cells.” Gut 37 (2): 225–34. https://doi.org/10.1136/gut.37.2.225.
-5.) Leushacke, M., and N. Barker. 2012. “Lgr5 and Lgr6 as Markers to Study Adult Stem Cell Roles in Self-Renewal and Cancer.” Oncogene 31 (25): 3009–22. https://doi.org/10.1038/onc.2011.479.
-6.) Takahashi, Toshio, and Akira Shiraishi. 2020. “Stem Cell Signaling Pathways in the Small Intestine.” International Journal of Molecular Sciences 21 (6): 2032. https://doi.org/10.3390/ijms21062032.
-7.) Thomas, Hugh. 2016. “Gut Endothelial Cells — Another Line of Defence.” Nature Reviews Gastroenterology & Hepatology 13 (1): 4–4. https://doi.org/10.1038/nrgastro.2015.205.
-8.) Wang, Fengchao, David Scoville, Xi C. He, Maxime M. Mahe, Andrew Box, John M. Perry, Nicholas R. Smith, et al. 2013. “Isolation and Characterization of Intestinal Stem Cells Based on Surface Marker Combinations and Colony-Formation Assay.” Gastroenterology 145 (2): 383-395.e21. https://doi.org/10.1053/j.gastro.2013.04.050.
-9.) Wells, Jerry M., Robert J. Brummer, Muriel Derrien, Thomas T. MacDonald, Freddy Troost, Patrice D. Cani, Vassilia Theodorou, et al. 2016. “Homeostasis of the Gut Barrier and Potential Biomarkers.” American Journal of Physiology-Gastrointestinal and Liver Physiology 312 (3): G171–93. https://doi.org/10.1152/ajpgi.00048.2015.
-10.) “SnapShot: The Intestinal Crypt | Elsevier Enhanced Reader.” n.d. Accessed April 20, 2021. https://doi.org/10.1016/j.cell.2013.02.030.
-11.) LeslieMar. 28, Mitch, 2019, and 1:00 Pm. 2019. “Closing in on a Century-Old Mystery, Scientists Are Figuring out What the Body’s ‘Tuft Cells’ Do.” Science | AAAS. March 28, 2019. https://www.sciencemag.org/news/2019/03/closing-century-old-mystery-scientists-are-figuring-out-what-body-s-tuft-cells-do.
-12.) “The Immune Function of Tuft Cells at Gut Mucosal Surfaces and Beyond | The Journal of Immunology.” n.d. Accessed April 20, 2021. https://www.jimmunol.org/content/202/5/1321/tab-figures-data.
+1. Kasendra, Magdalena, Alessio Tovaglieri, Alexandra Sontheimer-Phelps, Sasan Jalili-Firoozinezhad, Amir Bein, Angeliki Chalkiadaki, William Scholl, et al. 2018. “Development of a Primary Human Small Intestine-on-a-Chip Using Biopsy-Derived Organoids.” Scientific Reports 8 (1): 2871. https://doi.org/10.1038/s41598-018-21201-7.
+2. Gillette, Brian M., Jacob A. Jensen, Meixin Wang, Jason Tchao, and Samuel K. Sia. 2010. “Dynamic Hydrogels: Switching of 3D Microenvironments Using Two-Component Naturally Derived Extracellular Matrices.” Advanced Materials 22 (6): 686–91. https://doi.org/10.1002/adma.200902265.
+3. Gjorevski, Nikolce, Norman Sachs, Andrea Manfrin, Sonja Giger, Maiia E. Bragina, Paloma Ordóñez-Morán, Hans Clevers, and Matthias P. Lutolf. 2016. “Designer Matrices for Intestinal Stem Cell and Organoid Culture.” Nature 539 (7630): 560–64. https://doi.org/10.1038/nature20168.
+4. Haraldsen, G., J. Rugtveit, D. Kvale, T. Scholz, W. A. Muller, T. Hovig, and P. Brandtzaeg. 1995. “Isolation and Longterm Culture of Human Intestinal Microvascular Endothelial Cells.” Gut 37 (2): 225–34. https://doi.org/10.1136/gut.37.2.225.
+5. Leushacke, M., and N. Barker. 2012. “Lgr5 and Lgr6 as Markers to Study Adult Stem Cell Roles in Self-Renewal and Cancer.” Oncogene 31 (25): 3009–22. https://doi.org/10.1038/onc.2011.479.
+6. Takahashi, Toshio, and Akira Shiraishi. 2020. “Stem Cell Signaling Pathways in the Small Intestine.” International Journal of Molecular Sciences 21 (6): 2032. https://doi.org/10.3390/ijms21062032.
+7. Thomas, Hugh. 2016. “Gut Endothelial Cells — Another Line of Defence.” Nature Reviews Gastroenterology & Hepatology 13 (1): 4–4. https://doi.org/10.1038/nrgastro.2015.205.
+8. Wang, Fengchao, David Scoville, Xi C. He, Maxime M. Mahe, Andrew Box, John M. Perry, Nicholas R. Smith, et al. 2013. “Isolation and Characterization of Intestinal Stem Cells Based on Surface Marker Combinations and Colony-Formation Assay.” Gastroenterology 145 (2): 383-395.e21. https://doi.org/10.1053/j.gastro.2013.04.050.
+9. Wells, Jerry M., Robert J. Brummer, Muriel Derrien, Thomas T. MacDonald, Freddy Troost, Patrice D. Cani, Vassilia Theodorou, et al. 2016. “Homeostasis of the Gut Barrier and Potential Biomarkers.” American Journal of Physiology-Gastrointestinal and Liver Physiology 312 (3): G171–93. https://doi.org/10.1152/ajpgi.00048.2015.
+10. “SnapShot: The Intestinal Crypt | Elsevier Enhanced Reader.” n.d. Accessed April 20, 2021. https://doi.org/10.1016/j.cell.2013.02.030.
+11. LeslieMar. 28, Mitch, 2019, and 1:00 Pm. 2019. “Closing in on a Century-Old Mystery, Scientists Are Figuring out What the Body’s ‘Tuft Cells’ Do.” Science | AAAS. March 28, 2019. https://www.sciencemag.org/news/2019/03/closing-century-old-mystery-scientists-are-figuring-out-what-body-s-tuft-cells-do.
+12. “The Immune Function of Tuft Cells at Gut Mucosal Surfaces and Beyond | The Journal of Immunology.” n.d. Accessed April 20, 2021. https://www.jimmunol.org/content/202/5/1321/tab-figures-data.
 
 
 
