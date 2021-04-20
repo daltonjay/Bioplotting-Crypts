@@ -17,11 +17,11 @@ The intestine is divided into two sections: the small intestine and the large in
 
 ![Biological Makeup of the Intestine](/BioPics/Bio1.jpg)
 
+Each of the intestinal cell types are differentiated from the Lgr5+ stem cells in the bottom of the crypt. In the organoid model, the cells can be grown along a crypt-villus axis, with the capability of sampling the cellular milieu directly. However, the organoid model falls short of recapitulating the in vivo physiology and pathology of the human body. 
 
 ![Intestinal Stem Cell Differentiation](/BioPics/Bio2.jpg)
 [SnapShot:The Intestine, Cleavers, 2013](https://reader.elsevier.com/reader/sd/pii/S0092867413002195?token=C8D44437EC5EC82CD40BE1B0D6EA59F9C6F9AB35AC2F725D7E3913DCE2E2FE81FA34BCC2CAF3BDF830E1D4FB4227F9D3&originRegion=us-east-1&originCreation=20210417210824)
 
-Each of the intestinal cell types are differentiated from the Lgr5+ stem cells in the bottom of the crypt. In the organoid model, the cells can be grown along a crypt-villus axis, with the capability of sampling the cellular milieu directly. However, the organoid model falls short of recapitulating the in vivo physiology and pathology of the human body. 
 
 ## Here we propose to bio-print an architecturaly sound crypt structure allowing for luminal accessibility, tissue polarity, cell migration, and cellular responses of in vivo intestinal crypts enabling high-throughput evaluation of the intestibnal barrier membrane and mucus production.
 
