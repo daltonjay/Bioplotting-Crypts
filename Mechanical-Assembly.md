@@ -13,5 +13,6 @@ Item         | Quantity  | Cost (per unit)
 [5/32" T Nut & Bolt (1/4"-20 thread)](https://www.mcmaster.com/47065T139/) | 6 | $0.46
 [M3 screws (Depth 4.5mm)](https://www.mcmaster.com/91251A059) | 4 | $0.29
 [UV-Resistant Acrylic Sheet (12"x12"x1/8")](https://www.mcmaster.com/8560K239/) | 1 | $9.70
-[Timing Pulley, 18T MXL](https://shop.sdp-si.com/catalog/product/?id=A_6M16M018DF6006) | 8 | $10.73
-[MXL Timing Belt, 1/4" W, 77"L](https://shop.sdp-si.com/catalog/product/?id=A_6M16M018DF6006) | 2 | $10.10
+[Timing Pulley, 18T MXL (Idle)](https://shop.sdp-si.com/catalog/product/?id=A_6M16M018DF6006) | 8 | $10.73
+[Timing Pulley, 18T MXL (Drive)](https://shop.sdp-si.com/catalog/product/?id=A_6T16M018DF6005) | 2 | $8.71
+[MXL Timing Belt, 1/4" W, 77"L](https://www.mcmaster.com/1679K686/) | 2 | $10.10
