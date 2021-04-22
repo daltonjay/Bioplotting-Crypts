@@ -1,5 +1,15 @@
 # Mechanical Assembly for Bioplotter
 
+## Bioplotter Overview
+
+### 3D Linear Motion
+
+### Extruder Design
+
+### Sterility
+
+## Bioplotter Assembly
+
 ## Bill of Materials
 
 Item         | Quantity  | Cost (per unit)
@@ -16,3 +26,6 @@ Item         | Quantity  | Cost (per unit)
 [Timing Pulley, 18T MXL (Idle)](https://shop.sdp-si.com/catalog/product/?id=A_6M16M018DF6006) | 8 | $10.73
 [Timing Pulley, 18T MXL (Drive)](https://shop.sdp-si.com/catalog/product/?id=A_6T16M018DF6005) | 2 | $8.71
 [MXL Timing Belt, 1/4" W, 77"L](https://www.mcmaster.com/1679K686/) | 2 | $10.10
+
+
+## 3D Modeled Parts
