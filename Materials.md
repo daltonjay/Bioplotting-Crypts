@@ -1,4 +1,4 @@
-# Materials Overview 
+# Materials Overview << See Ref #8 for PEG option instead >>
 
 Epithelial Cell-ECM interactions are critical to promote cell survival. Various biopriting techniques have been developed to recapitulate 3D tissue contructs, including light-assisted, droplet-based, and extrusion-based printing systems. 
 
@@ -9,7 +9,7 @@ While Collagen IV is essential in polarizing the intestinal stem cell niche for 
 ### The Ambitious Plan
 The May 2020 review article titled, "Polymer Hydrogels to Guide Organtypic and Organoid Cultures," brings to light the potential hydrogel-based approaches to address challenges needed to be overcome in organoid development across systems. Here they suggest a bioengineered decellularized matrix hydrogel to provide local support for cell proliferation and crypt formation. Why decullarizated? Because it aims to isolate the ECM from inhabiting cells while preserving the post-translational modifications of the molecular components and tissue-specific structural features. [Decellularized organs](https://pubmed.ncbi.nlm.nih.gov/18201760/) can be chopped up, ground into bits, turned into a powder, and digested into a liquid solution for extrusion-based bioprinting. This tissue-specific network of ECM biopolymers is suitable for embedding cells and bioprinting because the ECM fibers self-assemble upon neutralization at 37 Degrees Celcius and provides localized adhesision, allowing for proper metabolic activity, proliferation, morphology, and differentiation. Furthermore, the deECM undergoes enzymatic degradation and matrix assembly in tune with proteolytic remodeling. 
 
-### The Fall-Back Plan
+### The Fall-Back Plan 
 If decullarizing tissue proves to be unsuccessful, our fall back plan is the ever-reliable [Fibrin-Matrigel Biopolymer](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201801621). Matrigel is a heterogenous mixture of many ECM components such as: laminin, collagen IV, nidogen, proteoglycans, and growth factors. However, it seems the decellularized ECM hydrogel would be more physiologically-relevant due to Matrigel being a permissive murine sarcoma-derived gel. The Fibrin-Matrigel Biopolymer is an integrated polymer network formation of laminin within the fibrin scaffold for differentaion. Fibrin hydrogels between 3 and 4.5 mg mL−1 (77 ± 25 Pa and 140 ± 47 Pa) provide the best physical properties for organoid expansion.
 
 ## Altering Stiffness via Chemical Cross-linking to Study Diseased States
@@ -23,3 +23,5 @@ The ECM undergoes high remodeling during disease. To recapitulate the physiologi
 4. Magno, Valentina, Andrea Meinhardt, and Carsten Werner. 2020. “Polymer Hydrogels to Guide Organotypic and Organoid Cultures.” Advanced Functional Materials 30 (48): 2000097. https://doi.org/10.1002/adfm.202000097.
 5. Freytes, Donald O., Jeffrey Martin, Sachin S. Velankar, Annie S. Lee, and Stephen F. Badylak. 2008. “Preparation and Rheological Characterization of a Gel Form of the Porcine Urinary Bladder Matrix.” Biomaterials 29 (11): 1630–37. https://doi.org/10.1016/j.biomaterials.2007.12.014.
 6. Badylak, S. F., G. C. Lantz, A. Coffey, and L. A. Geddes. 1989. “Small Intestinal Submucosa as a Large Diameter Vascular Graft in the Dog.” The Journal of Surgical Research 47 (1): 74–80. https://doi.org/10.1016/0022-4804(89)90050-4.
+7. Wang, Yuli, Raehyun Kim, Samuel S. Hinman, Bailey Zwarycz, Scott T. Magness, and Nancy L. Allbritton. 2018. “Bioengineered Systems and Designer Matrices That Recapitulate the Intestinal Stem Cell Niche.” Cellular and Molecular Gastroenterology and Hepatology 5 (3): 440-453.e1. https://doi.org/10.1016/j.jcmgh.2018.01.008.
+8. Cosson, Steffen, Stefan A. Kobel, and Matthias P. Lutolf. 2009. “Capturing Complex Protein Gradients on Biomimetic Hydrogels for Cell-Based Assays.” Advanced Functional Materials 19 (21): 3411–19. https://doi.org/10.1002/adfm.200900968.
