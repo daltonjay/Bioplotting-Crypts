@@ -20,7 +20,7 @@ The biggest drawback of gastrointestinal organoids, whether enteroid or colonoid
 
 [Software Overview](/Bioplotting-Crypts/Software)
 
-[Materials Overview](/Bioplotting-Crypts/materials)
+[Materials Overview](/Bioplotting-Crypts/Materials)
 
 [Biological Relevance and Cells](/Bioplotting-Crypts/Biological-Relevance)
 
