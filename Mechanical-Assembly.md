@@ -23,15 +23,19 @@ By sealing the connection between the syringe and the print head with PVC tubing
 ### Future Directions
 
 **4D Motion**
+
 The corexy system functions by moving both x and y directions simultaneously to achieve the flexible printing capabilities. As aforementioned, this overcomes the rigidity typical of standard cartesian 3D printers. Yet, while the Crypt Plotter can print with higher angular accuracy, the printer remains fairly limited in its ability to create circular shapes - an important consideration for printing small cylindrical / conic structures, as we are doing when fabricating crypts. Thus, a future direction of this work would be to include a rotational axis to make the print 4-dimensional. This may look like adding a motor controlled rotational plate that can be added on top of the stage. The plate could be controlled by a motor and belt system, but may require z-axis motion of the motor used for this. The weight added to the z-ais, however, may be very well worth it to achieve high circular resolution.
 
 **Multi-syringe system**
+
 By implementing some means of using multiple print nozzles (e.g., two nozzles in the same print head), the Crypt Bioplotter could be easily adapted to print two separate materials in the same print. This would be accomplished by the use of two syringe pumps (aforementioned) in parallel. Both pumps would be closed-systems connected to separate print nozzles by PVC tubing. This implementation would require the software to accomodate for different positioning of the print nozzles in between the use of materials. This would improve the ease of use for multi-material prints. For example, the Crypt Plotter could print an acrylated hydrogel to provide structure and stability with ease in printing that could then be lined with Collagen IV printed from the second nozzle to provide cellular access to functional moieties for differentiation. 
 
 **Print Head Changing System**
+
 An alternative means to leveraging an effective multi-material printing system, the Crypt Bioplotter could be developed to have exchangeable print heads. This would reduce the burden of software accomadations for different positionings of the print head, enable the change in print nozzle size and temperature, and allow for rapid change of materials during the print process. A print head changing system would offer great potential for changing between syringe pump driven systems and droplet-on-demand systems that would be preferable for single-cell printing, if so desired for future uses.
 
 **Single-cell Printing**
+
 Addition of a droplet-on-demand (DOD) system would enable the Crypt Bioplotter to print with single-cell resolution. Inclusion of this in the printer would enable the bioplotter to print the crypts with hydrogel and then switch to the DOD system during the print to seed the crypt with cells. This would reduce the burden of adding the cells that would typically be left to the investigator. Further, this would ensure high accuracy and cell count for sensitive fabrication or studies. If the DOD inkjet system could be used in the  print head changing system, the bioplotter could toggle between the cells and hydrogel materials with relative ease.
 
 ## Bioplotter Assembly
