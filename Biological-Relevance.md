@@ -2,6 +2,13 @@
 
 ## The Intestine
 
+The intestine is divided into two sections: the small intestine and the large intestine, or colon. The inner surface of each is lined by a simple epithelium and endothelium, separated by a basement membrane. While the small intestine epithelium is comprised of crypts and villus structures for the absoprtion of micronutrients, the colon only has crypts on its epithelial surface and primarily functions to compact the stool. Although there are differences between the two sections, the role of the crypt is the same: house the stem cells in the bottom third of the structure so they can differentiate upward towards the lumen. 
+
+
+![Biological Makeup of the Intestine](/BioPics/Bio1.jpg)
+
+Each of the intestinal cell types are differentiated from the Lgr5+ stem cells in the bottom of the crypt. In the organoid model, the cells can be grown along a crypt-villus axis, with the capability of sampling the cellular milieu directly. However, the organoid model falls short of recapitulating the in vivo physiology and pathology of the human body. 
+
 Epithelial Cell Type | Function   | Biomarker
 -------------------- | -----------| -----------
 Enterocyte | Absorption, most abundant | SLC10A2 - Bile Acid Transporter
@@ -11,25 +18,17 @@ Tuft | Prostanoid production, Pathogen elimination | DCLK1 - Microtubule kinase
 Paneth | Nurtures ISCs in crypt | DEFA5 - Defensin Alpha 5
 M-cell | Antigen transport | GP2 - Glycoprotein 2
 
-
-The intestine is divided into two sections: the small intestine and the large intestine, or colon. The inner surface of each is lined by a simple epithelium and endothelium, separated by a basement membrane. While the small intestine epithelium is comprised of crypts and villus structures for the absoprtion of micronutrients, the colon only has crypts on its epithelial surface and primarily functions to compact the stool. Although there are differences between the two sections, the role of the crypt is the same: house the stem cells in the bottom third of the structure so they can differentiate upward towards the lumen. 
-
-
-![Biological Makeup of the Intestine](/BioPics/Bio1.jpg)
-
-Each of the intestinal cell types are differentiated from the Lgr5+ stem cells in the bottom of the crypt. In the organoid model, the cells can be grown along a crypt-villus axis, with the capability of sampling the cellular milieu directly. However, the organoid model falls short of recapitulating the in vivo physiology and pathology of the human body. 
-
 ![Intestinal Stem Cell Differentiation](/BioPics/Bio2.jpg)
 [SnapShot:The Intestine, Cleavers, 2013](https://reader.elsevier.com/reader/sd/pii/S0092867413002195?token=C8D44437EC5EC82CD40BE1B0D6EA59F9C6F9AB35AC2F725D7E3913DCE2E2FE81FA34BCC2CAF3BDF830E1D4FB4227F9D3&originRegion=us-east-1&originCreation=20210417210824)
 
 
-## Here we propose to bio-print an architecturaly sound crypt structure allowing for luminal accessibility, tissue polarity, cell migration, and cellular responses of in vivo intestinal crypts enabling high-throughput evaluation of the intestibnal barrier membrane and mucus production.
+### Here we propose to bio-print an architecturaly sound crypt structure allowing for luminal accessibility, tissue polarity, cell migration, and cellular responses of in vivo intestinal crypts enabling high-throughput evaluation of the intestibnal barrier membrane and mucus production.
 
 ## Why is this important? 
 
 The disruption of the intestinal barrier results in intestinal permeability which facilitates translocation of harmful substances and pathogens to the bloodstream, causing disruption of homeostasis. As such, drug and toxin studies across the intestinal barrier pertinent to gastrointestinal medicine. Our bio-printed organoid model offers the possibility of recreating a physiologically realistic tissue microenvironment for a breadth of gastrointestinal cells spanning all intestinal cell types. 
 
-## By bio-fabricating the epithelial surface into a Transwell insert, we are creating an enteroid with an accessible lumen. This is unlike cultured enteroids enclosed in the ECM gel where the lumen is difficult to sample or manipulate without causing physiologically-irrelevant biochemical signals and stimuli. 
+### By bio-fabricating the epithelial surface into a Transwell insert, we are creating an enteroid with an accessible lumen. This is unlike cultured enteroids enclosed in the ECM gel where the lumen is difficult to sample or manipulate without causing physiologically-irrelevant biochemical signals and stimuli. 
 
 ## Potential Applications for Researchers
   - Barrier Function
