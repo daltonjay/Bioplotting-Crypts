@@ -79,9 +79,9 @@ Organoids derived from human tissue biopsies can be grown, frozen, and revived f
 7. Thomas, Hugh. 2016. “Gut Endothelial Cells — Another Line of Defence.” Nature Reviews Gastroenterology & Hepatology 13 (1): 4–4. https://doi.org/10.1038/nrgastro.2015.205.
 8. Wang, Fengchao, David Scoville, Xi C. He, Maxime M. Mahe, Andrew Box, John M. Perry, Nicholas R. Smith, et al. 2013. “Isolation and Characterization of Intestinal Stem Cells Based on Surface Marker Combinations and Colony-Formation Assay.” Gastroenterology 145 (2): 383-395.e21. https://doi.org/10.1053/j.gastro.2013.04.050.
 9. Wells, Jerry M., Robert J. Brummer, Muriel Derrien, Thomas T. MacDonald, Freddy Troost, Patrice D. Cani, Vassilia Theodorou, et al. 2016. “Homeostasis of the Gut Barrier and Potential Biomarkers.” American Journal of Physiology-Gastrointestinal and Liver Physiology 312 (3): G171–93. https://doi.org/10.1152/ajpgi.00048.2015.
-10. “SnapShot: The Intestinal Crypt | Elsevier Enhanced Reader.” n.d. Accessed April 20, 2021. https://doi.org/10.1016/j.cell.2013.02.030.
-11. LeslieMar. 28, Mitch, 2019, and 1:00 Pm. 2019. “Closing in on a Century-Old Mystery, Scientists Are Figuring out What the Body’s ‘Tuft Cells’ Do.” Science | AAAS. March 28, 2019. https://www.sciencemag.org/news/2019/03/closing-century-old-mystery-scientists-are-figuring-out-what-body-s-tuft-cells-do.
-12. “The Immune Function of Tuft Cells at Gut Mucosal Surfaces and Beyond | The Journal of Immunology.” n.d. Accessed April 20, 2021. https://www.jimmunol.org/content/202/5/1321/tab-figures-data.
+10. “SnapShot: The Intestinal Crypt." Elsevier Enhanced Reader. n.d. Accessed April 20, 2021. https://doi.org/10.1016/j.cell.2013.02.030.
+11. LeslieMar. 28, Mitch, 2019, and 1:00 Pm. 2019. “Closing in on a Century-Old Mystery, Scientists Are Figuring out What the Body’s ‘Tuft Cells’ Do.” Science, AAAS. March 28, 2019. https://www.sciencemag.org/news/2019/03/closing-century-old-mystery-scientists-are-figuring-out-what-body-s-tuft-cells-do.
+12. “The Immune Function of Tuft Cells at Gut Mucosal Surfaces and Beyond." The Journal of Immunology. n.d. Accessed April 20, 2021. https://www.jimmunol.org/content/202/5/1321/tab-figures-data.
 
 
 
