@@ -13,14 +13,11 @@ The biggest drawback of gastrointestinal organoids, whether enteroid or colonoid
 
 
 
-
-
-
 [Mechanical Assembly](/Bioplotting-Crypts/Mechanical-Assembly)
 
 [Electrical Logic](/Bioplotting-Crypts/Electrical-Assembly)
 
-[Software Overview](/Bioplotting-Crypts/software)
+[Software Overview](/Bioplotting-Crypts/Software)
 
 [Materials Overview](/Bioplotting-Crypts/materials)
 
