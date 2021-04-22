@@ -1,12 +1,23 @@
 # Mechanical Assembly for Bioplotter
 
 ## Bioplotter Overview
+The _BioFAB Four Crypt Plotter_ is designed to achieve high resolution 3-dimensional bioprinting. The design is intended for printing hydrogel-based structures for the creation of intestinal crypt models within transwells. Yet, the bioplotter has intentionally been crafted for translation to alternative uses. Features that enable translation include:
+- a print bed that exceeds the size necessary for crypt printing
+- a larger range of motion for the print head provided by the corexy and z-direction stage motion
+- interchangeable syringes for easy change between printed materials
+- fast print times due to the lightweight carriage containing only the print head in the corexy system
+- an awesome design to look good in any research laboratory, makerspace, or garage (depending on your taste)!
 
 ### 3D Linear Motion
 
 ### Extruder Design
 
 ### Sterility
+
+### Future Directions
+**4D Motion**
+**Multi-syringe system**
+**Print Head Changing System**
 
 ## Bioplotter Assembly
 
