@@ -15,8 +15,13 @@ The _BioFAB Four Crypt Plotter_ is designed to achieve high resolution 3-dimensi
 ### Sterility
 
 ### Future Directions
+
 **4D Motion**
+The corexy system functions by moving both x and y directions simultaneously to achieve the flexible printing capabilities. As aforementioned, this overcomes the rigidity typical of standard cartesian 3D printers. Yet, while the Crypt Plotter can print with higher angular accuracy, the printer remains fairly limited in its ability to create circular shapes - an important consideration for printing small cylindrical / conic structures, as we are doing when fabricating crypts. Thus, a future direction of this work would be to include a rotational axis to make the print 4-dimensional. This may look like adding a motor controlled rotational plate that can be added on top of the stage. The plate could be controlled by a motor and belt system, but may require z-axis motion of the motor used for this. The weight added to the z-ais, however, may be very well worth it to achieve high circular resolution.
+
 **Multi-syringe system**
+
+
 **Print Head Changing System**
 
 ## Bioplotter Assembly
