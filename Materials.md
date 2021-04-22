@@ -1,9 +1,9 @@
 # Materials Overview (in process - nm)
 
 ## During Homeostasis
-Epithelial Cell-ECM interactions are critical to promote cell survival. 
+Epithelial Cell-ECM interactions are critical to promote cell survival. Various biopriting techniques have been developed to recapitulate 3D tissue contructs, including light-assisted, droplet-based, and extrusion-based printing systems. 
 
-However, Collagen IV is not well suited for bioplotting as it has slow transition from the fluid to solid state. So we decided to coat the bottom of the Transwell insert with a layer of Collagen IV, allow it to solidify, then bioprint the fabricated crypt structures on top of the Collagen IV. This allows the stem cells to be dropped directly onto the bed of Collagen IV for polarization, and subsequently utilize the fabricated xx material crypt for self-assembly in the z direction. 
+However, Collagen IV is not well suited for bioplotting as it has intrinsic limitations in mechanical properties and structural stability after bioprinting due to slow cross-linking. While UV cross-linking via methacrylation can speed up solidification, we decided to only coat the bottom of the Transwell insert with a layer of Collagen IV, allow it to solidify, then bioprint the fabricated crypt structures on top of the Collagen IV. This allows the stem cells to be dropped directly onto the bed of Collagen IV for polarization, and subsequently utilize the fabricated xx material crypt for self-assembly in the z direction. 
 
 ## Diseased State
 The ECM undergoes high remodeling during disease. Tissue stiffness is modified via increased fibrillar collagen stiffness [COLL I and III](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7762382/) with crosslinking via lysyl oxidase enzymes (LOX), and metalloproteinase degradation (MMP) disrupts basement membrane homeostasis.  
