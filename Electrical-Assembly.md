@@ -1,5 +1,13 @@
 # Electrical Assembly for Bioplotter
 
+![Electrical diagram featuring the general layout of control and components.](/Bioplotting-Crypts/BioPics/finalelectricaldiagram.png)
+
+# General Overview
+
+Few specialty components are required for our bioplotter. Rather, standard NEMA 17 stepper motors, inexpensive drivers, and a single Arduino Uno are necessary to construct this device. 
+
+Note: Due to the scale of the Transwell prints, resolution and stability of motion are necessary over speed, so it is recommended a further 3 digital pins are reserved to enable microstepping on the controllers.
+
 ## Bill of Materials
 
 Item         | Quantity  |Cost (per unit)
