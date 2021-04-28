@@ -1,5 +1,9 @@
 # Mechanical Assembly for Bioplotter
 
+## Bioplotter Assembly
+
+<iframe src="https://vanderbilt389.autodesk360.com/shares/public/SH919a0QTf3c32634dcf75c5ffeb4a9aec1c?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## Bioplotter Overview
 The _BioFAB Four Crypt Plotter_ is designed to achieve high resolution 3-dimensional bioprinting. The design is intended for printing hydrogel-based structures for the creation of intestinal crypt models within transwells. Yet, the bioplotter has intentionally been crafted for translation to alternative uses. Features that enable translation include:
 - a print bed that exceeds the size necessary for crypt printing
@@ -51,8 +55,6 @@ An alternative means to leveraging an effective multi-material printing system, 
 **Single-cell Printing**
 
 Addition of a droplet-on-demand (DOD) system would enable the Crypt Bioplotter to print with single-cell resolution. Inclusion of this in the printer would enable the bioplotter to print the crypts with hydrogel and then switch to the DOD system during the print to seed the crypt with cells. This would reduce the burden of adding the cells that would typically be left to the investigator. Further, this would ensure high accuracy and cell count for sensitive fabrication or studies. If the DOD inkjet system could be used in the print head changing system, the bioplotter could toggle between the cells and hydrogel materials with relative ease.
-
-## Bioplotter Assembly
 
 ## Bill of Materials
 
