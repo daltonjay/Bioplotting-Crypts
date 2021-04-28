@@ -8,6 +8,20 @@ Few specialty components are required for our bioplotter. Rather, standard NEMA 
 
 Note: Due to the scale of the Transwell prints, resolution and stability of motion are necessary over speed, so it is recommended a further 3 digital pins are reserved to enable microstepping on the controllers.
 
+# Future Directions
+
+## Closed Loop Control System
+
+To keep the overall price down for the crypt bioplotter and due to the relatively light system used, encoders/resolvers were not included in our original design. However, in the interest of increasing reliablity and removing any potential positioning error in the device, replacing the basic NEMA 17 Stepper Motors with a set that has built in encoders might be fruitful. A potential iteration of the software could include an option for including feedback from these encoders to ensure proper positioning is achieved, at least on the motor end--a different methology would be necessary to account for lash error. Closed loop control would be especially important in a drop-on-demand delivery system where increased precision and control of individual cell distribution control are critical. 
+
+## UV Crosslinking
+
+Only covering the bottom of the crypt with Collagen IV has the advantage of hastening print times and making crosslinking unnecessary. However, should layers of the protein be required a simple UV light source could be integrated with the print head to flash crosslink the protein. Control of this mechanism would have to be left to a relay wired to the Arduino Uno, flashing the lamp on and off when a layer was positioned properly. The existing voltage sources can be used to provide both the relay current and the lamp power. 
+
+## Droplet on Demand
+
+By far the most difficult to introduce electronically, creating a DoD system would require alterations in our syringe structure and pump, allowing us to quickly heat or use electrostatics to expel a single drop of the cell solution. Most of the work would need to be done on the mechanical side, but a custom driving system would need to be integrated with the electronics. 
+
 ## Bill of Materials
 
 Item         | Quantity  |Cost (per unit)
