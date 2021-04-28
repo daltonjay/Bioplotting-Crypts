@@ -1,4 +1,4 @@
-# Materials Overview << See Ref #8 for PEG option instead >>
+# Materials Overview 
 
 Epithelial Cell-ECM interactions are critical to promote cell survival. Various bioprinting techniques have been developed to recapitulate 3D tissue constructs, including light-assisted, droplet-based, and extrusion-based systems. 
 
