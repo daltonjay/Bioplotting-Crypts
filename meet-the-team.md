@@ -18,8 +18,11 @@ Dalton is a PhD student in the Department of Biomedical Engineering at Vanderbil
 
 ![Dalton](/Team/dn.jpg)
 
-## Nicholas Spurlock
+## Nicholas A. K. Spurlock
 
+Nick is a PhD student in Biomedical Engineering at Vanderbilt University. In his work in the Haselton Lab, Nick's research centers on diagnostic device development for low and middle income applications. Currently, his projects include advancing new polymerase chain reaction (PCR) technology and assisting Dalton Nelson with the instrumentation side of his HIV resistance project. Outside of school, Nick loves to write, hike, and read. 
+
+![Nick](/Team/nick.PNG)
 
 ## Navigate
 
