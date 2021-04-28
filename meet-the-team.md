@@ -4,7 +4,7 @@
 
 Peregrine is a senior undergraduate student at Vanderbilt University studying Biomedical engineering and Biochemistry alongside minoring in scientific computing. He works for Dr. Jonathan Brunger to design therapeutic cells to treat osteoarthritis. After graduation, he will be pursing his doctoral degree in Bioengineering at UPenn. During his free time, Peregrine enjoys playing sports such as boxing and tennis.
 
-![Perry](/Team/pl.jpg)
+![Perry](/Team/pl.JPG)
 
 ## Nicole D. Muszynski
 
