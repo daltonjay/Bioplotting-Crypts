@@ -84,9 +84,18 @@ Organoids derived from human tissue biopsies can be grown, frozen, and revived f
 12. “The Immune Function of Tuft Cells at Gut Mucosal Surfaces and Beyond." The Journal of Immunology. n.d. Accessed April 20, 2021. https://www.jimmunol.org/content/202/5/1321/tab-figures-data.
 
 
+# Navigation
 
+[Home](/Bioplotting-Crypts/index)
 
+[Mechanical Assembly](/Bioplotting-Crypts/Mechanical-Assembly)
 
+[Electrical Logic](/Bioplotting-Crypts/Electrical-Assembly)
 
+[Software Overview](/Bioplotting-Crypts/Software)
 
+[Materials Overview](/Bioplotting-Crypts/Materials)
 
+[**Biological Relevance and Cells**](/Bioplotting-Crypts/Biological-Relevance)
+
+[Meet BioFAB Four](/Bioplotting-Crypts/meet-the-team)
