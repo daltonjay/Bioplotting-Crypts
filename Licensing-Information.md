@@ -8,7 +8,7 @@ All designs based on ours must maintain the GNU General Public License and exist
 
 All modifications to our design must be clearly stated and documented.
 
-Source code based on this design must be made available according to the terms of our license.
+Source code based on this design must be made available according to the terms of the same license this code is licensed under.
 
 We assume no liability for any damages resulting from the use of this open source technology, and we guarantee no warranty. For more information, visit the [GNU General License Website](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
