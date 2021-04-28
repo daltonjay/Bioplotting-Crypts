@@ -15,11 +15,13 @@ The Crypt Bioplotter is mobile in the x, y, and z directions. Z-axis motion is a
 
 **Z-Axis Motion**
 
+Linear actuation is driven by a NEMA-17 and a nut-locking mechanism built in to the stage. The stage is stabalized and guided by four linear rods with frictionless linear bearings.
+
 ![Z-Axis Motion by Linear Actuation](/Bioplotter-Assembly-Pictures/z-axis-pic.png)
 
 **CoreXY System for X and Y motion**
 
-The coreXY system operates with a two belt system driven by two NEMA-17 motors. Each driver pulley is connected with three idle pulleys to move the print head and print head cassette in the x and y directions. In the picture below, pulleys that are connected together for print head manipulation are grouped by color (red or green). Idle pulleys on the print head cassette would be connected to the print head by belt clips in practice.
+The coreXY system operates with a two belt system driven by two NEMA-17 motors. Each driver pulley is connected with three idle pulleys to move the print head and print head cassette in the x and y directions. In the picture below, pulleys that are connected together for print head manipulation are grouped by color (red or green). Idle pulleys on the print head cassette would be connected to the print head by belt clips in practice. For more information on the coreXY system and implementation of the system, see the [coreXY website.](http://corexy.com/index.html) 
 
 ![CoreXy](/Bioplotter-Assembly-Pictures/coreXY.png)
 
