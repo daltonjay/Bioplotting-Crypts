@@ -32,3 +32,17 @@ Item         | Quantity  |Cost (per unit)
 [DCNC-Nema 17-0.5nm Stepper Motor 24V](https://www.digikey.com/en/products/detail/nmb-technologies-corporation/17PM-K858-00VS/2416995) | 4 | $49.56
 [Stepper Motor Driver](https://www.digikey.com/en/products/detail/monolithic-power-systems-inc/MP6601GU-P/9817885) | 4 | $3.37
 
+# Navigation
+[Home](/Bioplotting-Crypts/index)
+
+[**Mechanical Assembly**](/Bioplotting-Crypts/Mechanical-Assembly)
+
+[Electrical Logic](/Bioplotting-Crypts/Electrical-Assembly)
+
+[Software Overview](/Bioplotting-Crypts/Software)
+
+[Materials Overview](/Bioplotting-Crypts/Materials)
+
+[Biological Relevance and Cells](/Bioplotting-Crypts/Biological-Relevance)
+
+[Meet BioFAB Four](/Bioplotting-Crypts/meet-the-team)
