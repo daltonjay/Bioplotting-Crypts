@@ -2,6 +2,10 @@
 
 ## Peregrine Liu
 
+Peregrine is a senior undergraduate student at Vanderbilt University studying Biomedical engineering and Biochemistry alongside minoring in scientific computing. He works for Dr. Jonathan Brunger to design therapeutic cells to treat osteoarthritis. After graduation, he will be pursing his doctoral degree in Bioengineering at UPenn. During his free time, Peregrine enjoys playing sports such as boxing and tennis.
+
+![Perry](/Team/pl.jpg)
+
 ## Nicole D. Muszynski
 
 Nicole works as a Biomedical Engineer for the Dept of Physics at Vanderbilt University (May 2011 - Present). Her research includes work in Superconductors, Microfluidics, Clinical Pharmacology and Gastroenterology. She is affiliated with the VIIBRE lab led by John P. Wikswo and the Gastrointestinal SQUID Technologies Lab led by L. Alan Bradshaw. Currently, she is working with John Wikswo on rapidly identifying molecular mechanism of action in Organ-on-a-Chip bioreactors.
