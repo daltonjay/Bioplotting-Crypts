@@ -77,10 +77,19 @@ Item         | Quantity  | Cost (per unit)
 ## 3D Modeled Parts
 
 ### Stage
+As we want the Crypt Plotter to be translatable for alternative uses, 3D modeling the stage enables users to change shapes and sizes as desired for their individual use. Further, by using low density infill and, potentially, carbon fiber reinforcement or performance plastics for the print, the stage will be sturdy and economical. By 3D modeling the stage, future directions such as the 4D motion with a "microwave plate" type design may be more readily prototyped and developed. 
+
+<iframe src="https://vanderbilt389.autodesk360.com/shares/public/SH919a0QTf3c32634dcfd95b8ec164700661?mode=embed" width="680" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ### Print Head Cassette
+The print head cassette and print head were 3D modeled to enable easy adjustments when altering the printer for various uses. Additionally, it enables easy assembly and material troubleshooting for the user. Printing the cassette to enable the use of linear rods and bearings makes the system function seamlessly without the cost of high end linear rails. The cassette can be made with low density infill to further reduce cost or can be printed with robust materials, such as carbon fiber reinforced plastics, to improve durability of the system.
+
+<iframe src="https://vanderbilt389.autodesk360.com/shares/public/SH919a0QTf3c32634dcf2d097be911516155?mode=embed" width="680" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ### Casing
+In practice, the casing will ideally be made with an UV-resistant Acrylic, as noted in the bill of materials. However, for rapid design in this context, the actual use of the material for 3D modeling is not of necessity. If one were to have access to a large enough 3D printer, this casing design could be used (recommended medium infill density) by direct printing. The model provides access to any necessary holes or joints during construction to use as one solid printed piece.
+
+<iframe src="https://vanderbilt389.autodesk360.com/shares/public/SH919a0QTf3c32634dcfddc877ec0da45263?mode=embed" width="680" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 [Home](/Bioplotting-Crypts/index)
 
