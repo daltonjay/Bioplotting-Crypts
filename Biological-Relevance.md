@@ -22,11 +22,11 @@ M-cell | Antigen transport | GP2 - Glycoprotein 2
 [SnapShot:The Intestine, Cleavers, 2013](https://reader.elsevier.com/reader/sd/pii/S0092867413002195?token=C8D44437EC5EC82CD40BE1B0D6EA59F9C6F9AB35AC2F725D7E3913DCE2E2FE81FA34BCC2CAF3BDF830E1D4FB4227F9D3&originRegion=us-east-1&originCreation=20210417210824)
 
 
-### Here we propose to bio-print an architecturaly sound crypt structure allowing for luminal accessibility, tissue polarity, cell migration, and cellular responses of in vivo intestinal crypts enabling high-throughput evaluation of the intestibnal barrier membrane and mucus production.
+### Here we propose to bio-print an architecturally sound crypt structure allowing for luminal accessibility, tissue polarity, cell migration, and cellular responses of in vivo intestinal crypts enabling high-throughput evaluation of the intestinal barrier membrane and mucus production.
 
 ## Why is this important? 
 
-The disruption of the intestinal barrier results in intestinal permeability which facilitates translocation of harmful substances and pathogens to the bloodstream, causing disruption of homeostasis. As such, drug and toxin studies across the intestinal barrier pertinent to gastrointestinal medicine. Our bio-printed organoid model offers the possibility of recreating a physiologically realistic tissue microenvironment for a breadth of gastrointestinal cells spanning all intestinal cell types. 
+The disruption of the intestinal barrier results in intestinal permeability which facilitates translocation of harmful substances and pathogens to the bloodstream, causing disruption of homeostasis. As such, drug and toxin studies across the intestinal barrier are pertinent to gastrointestinal medicine. Our bio-printed organoid model offers the possibility of recreating a physiologically realistic tissue microenvironment for a breadth of gastrointestinal cells spanning all intestinal cell types. 
 
 ### By bio-fabricating the epithelial surface into a Transwell insert, we are creating an enteroid with an accessible lumen. This is unlike cultured enteroids enclosed in the ECM gel where the lumen is difficult to sample or manipulate without causing physiologically-irrelevant biochemical signals and stimuli. 
 
@@ -39,7 +39,7 @@ The disruption of the intestinal barrier results in intestinal permeability whic
 
 ## Study Models
 
-Existing approaches for studying biological systems have focused largely on either whole organism studies or traditional cell culture. Using cell studies that grow one or two cell types in culture either in a Petri dish or in Transwells cannot provide a healthy and controlled microenvironment for **multiple** cell types. Animal models do not always hold the same biological characteristics and relevance. While the organ-on-a-chip or microphysiological systems approach would target a degree of complexity and validity between the animal and cell culture approaches, chip models make cell retrieval nearly impossible without first lysing the cells. The approach of isolating the several cell types most important to a biological processes through human-derived organoids is novel and potentially very powerful. 
+Existing approaches for studying biological systems have focused largely on either whole organism studies or traditional cell culture. Using cell studies that grow one or two cell types in culture either in a Petri dish or in Transwells cannot provide a healthy and controlled microenvironment for **multiple** cell types. Animal models do not always hold the same biological characteristics and relevance. While the organ-on-a-chip or microphysiological systems approach would target a degree of complexity and validity between the animal and cell culture approaches, chip models make cell retrieval nearly impossible without first lysing the cells. The approach of isolating the several cell types most important to biological processes through human-derived organoids is novel and potentially very powerful. 
 
 ![Stem Cell Retrieval for Implantation into Bio-Fabricated Crypts](/BioPics/Bio3.jpg)
 
