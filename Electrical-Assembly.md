@@ -35,9 +35,9 @@ Item         | Quantity  |Cost (per unit)
 # Navigation
 [Home](/Bioplotting-Crypts/index)
 
-[**Mechanical Assembly**](/Bioplotting-Crypts/Mechanical-Assembly)
+[Mechanical Assembly](/Bioplotting-Crypts/Mechanical-Assembly)
 
-[Electrical Logic](/Bioplotting-Crypts/Electrical-Assembly)
+[**Electrical Logic**](/Bioplotting-Crypts/Electrical-Assembly)
 
 [Software Overview](/Bioplotting-Crypts/Software)
 
