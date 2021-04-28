@@ -25,3 +25,18 @@ The ECM undergoes high remodeling during disease. To recapitulate the physiologi
 6. Badylak, S. F., G. C. Lantz, A. Coffey, and L. A. Geddes. 1989. “Small Intestinal Submucosa as a Large Diameter Vascular Graft in the Dog.” The Journal of Surgical Research 47 (1): 74–80. https://doi.org/10.1016/0022-4804(89)90050-4.
 7. Wang, Yuli, Raehyun Kim, Samuel S. Hinman, Bailey Zwarycz, Scott T. Magness, and Nancy L. Allbritton. 2018. “Bioengineered Systems and Designer Matrices That Recapitulate the Intestinal Stem Cell Niche.” Cellular and Molecular Gastroenterology and Hepatology 5 (3): 440-453.e1. https://doi.org/10.1016/j.jcmgh.2018.01.008.
 8. Cosson, Steffen, Stefan A. Kobel, and Matthias P. Lutolf. 2009. “Capturing Complex Protein Gradients on Biomimetic Hydrogels for Cell-Based Assays.” Advanced Functional Materials 19 (21): 3411–19. https://doi.org/10.1002/adfm.200900968.
+
+# Navigation
+[Home](/Bioplotting-Crypts/index)
+
+[Mechanical Assembly](/Bioplotting-Crypts/Mechanical-Assembly)
+
+[Electrical Logic](/Bioplotting-Crypts/Electrical-Assembly)
+
+[Software Overview](/Bioplotting-Crypts/Software)
+
+[**Materials Overview**](/Bioplotting-Crypts/Materials)
+
+[Biological Relevance and Cells](/Bioplotting-Crypts/Biological-Relevance)
+
+[Meet BioFAB Four](/Bioplotting-Crypts/meet-the-team)
