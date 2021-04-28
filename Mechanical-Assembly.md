@@ -13,6 +13,16 @@ The Crypt Bioplotter employs a syringe pump based extrusion system, a linear act
 ### 3D Linear Motion
 The Crypt Bioplotter is mobile in the x, y, and z directions. Z-axis motion is achieved by a NEMA-17 driven linear actuator that moves the print stage. The print stage is guided and supported by four linear rods attached via linear ball bearings for near frictionless motion. X- and y-axis motion are both achieved by the coreXY technique. The technique enables two motors to simultaneously manipulate the print head via a belt system. CoreXY is lightweight since it does not require the motion of any heavy motors. Motion without motors also reduces the inertia of the mobile components, thus, rapid accelerations can be achieved. This makes our x-y system and, as a result, our printer very fast. CoreXY also enables flexible printing, meaning that the print head can be moved at more angles than standard cartesian printers. This is desirable when printing small, curved structures, as we are doing with crypt printing. 
 
+**Z-Axis Motion**
+
+![Z-Axis Motion by Linear Actuation](/Bioplotter-Assembly-Pictures/z-axis-pic.png)
+
+**CoreXY System for X and Y motion**
+
+The coreXY system operates with a two belt system driven by two NEMA-17 motors. Each driver pulley is connected with three idle pulleys to move the print head and print head cassette in the x and y directions. In the picture below, pulleys that are connected together for print head manipulation are grouped by color (red or green). Idle pulleys on the print head cassette would be connected to the print head by belt clips in practice.
+
+![CoreXy](/Bioplotter-Assembly-Pictures/coreXY.png)
+
 ### Extruder Design
 The extruder system relies on a syringe pump system. The syringe pump system is attached to the print head by PVC tubing such that the syringe pump can rest beside the printer as opposed to attaching the syringe to the print head, reducing the burden of weight on our printer. The tubing is flexible enough to be run up to and move with the print head during operation while being rigid enough to not cause hysteresis, as may be seen with more flexible tubing. The syringe pump is driven by a NEMA-17-based linear actuator. By implementing a microstepping method to achieve a sixteenth of a step for the motor rotation, we achieve smaller interval motions of the plunger driver and, as a result, higher extrusion resolution. With the current materials used (i.e., the threaded rod with a pitch of 1.25mm), this syringe pump system enables us to achieve an extrusion resolution of 0.45uL per rotation. For more information regarding the syringe pump employed for this design, visit the [Syringe Pump website](https://daltonjay.github.io/Syringe-Pump/). Components for building the syringe pump have been included in the bill of materials. 
 
