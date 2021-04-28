@@ -91,6 +91,8 @@ In practice, the casing will ideally be made with an UV-resistant Acrylic, as no
 
 <iframe src="https://vanderbilt389.autodesk360.com/shares/public/SH919a0QTf3c32634dcfddc877ec0da45263?mode=embed" width="660" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+## Navigate
+
 [Home](/Bioplotting-Crypts/index)
 
 [**Mechanical Assembly**](/Bioplotting-Crypts/Mechanical-Assembly)
