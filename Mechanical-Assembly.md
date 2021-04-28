@@ -2,7 +2,7 @@
 
 ## Bioplotter Assembly
 
-<iframe src="https://vanderbilt389.autodesk360.com/shares/public/SH919a0QTf3c32634dcf75c5ffeb4a9aec1c?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt389.autodesk360.com/shares/public/SH919a0QTf3c32634dcf75c5ffeb4a9aec1c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Bioplotter Overview
 The _BioFAB Four Crypt Plotter_ is designed to achieve high resolution 3-dimensional bioprinting. The design is intended for printing hydrogel-based structures for the creation of intestinal crypt models within transwells. Yet, the bioplotter has intentionally been crafted for translation to alternative uses. Features that enable translation include:
