@@ -13,7 +13,7 @@ A May 2020 review article titled "Polymer Hydrogels to Guide Organtypic and Orga
 If decellularizing tissue proves to be unsuccessful, our fall back plan is the ever-reliable [Fibrin-Matrigel Biopolymer](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.201801621). Matrigel is a heterogenous mixture of many ECM components such as: laminin, collagen IV, nidogen, proteoglycans, and growth factors. However, it seems the decellularized ECM hydrogel would be more physiologically-relevant due to Matrigel being a permissive murine sarcoma-derived gel. The Fibrin-Matrigel Biopolymer is an integrated polymer network formation of laminin within the fibrin scaffold for differentaion. Fibrin hydrogels between 3 and 4.5 mg mL−1 (77 ± 25 Pa and 140 ± 47 Pa) provide the best physical properties for organoid expansion.
 
 ## Altering Stiffness via Chemical Cross-linking to Study Diseased States
-The ECM undergoes high remodeling during disease. To recapitulate the physiological relevance of this, [Tissue stiffness can be modified via increased fibrillar collagen stiffness [COLL I and III](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7762382/) with crosslinking via lysyl oxidase enzymes (LOX), and metalloproteinase degradation (MMP) disrupts basement membrane homeostasis.  
+The ECM undergoes high remodeling during disease. To recapitulate the physiological relevance of this, tissue stiffness can be modified via increased fibrillar collagen [COLL I and III](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7762382/) with crosslinking via lysyl oxidase enzymes (LOX) and metalloproteinase degradation (MMP) to disrupt basement membrane homeostasis.  
 
 ## References
 
