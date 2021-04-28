@@ -12,7 +12,7 @@ The biggest drawback of gastrointestinal organoids, whether enteroid or colonoid
 
 **_Herein lies the beauty of bioprinting. Since bioprinting is an additive digital fabrication technique capable of submicron positioning with optimal control over spatial deposition of cells, it makes it capable of reproducing the architecture, cell diversity, and function of the human intestinal barrier formed through self-organization of stem cells._**
 
-
+## Navigate
 
 [**Home**](/Bioplotting-Crypts/index)
 
