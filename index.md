@@ -26,3 +26,4 @@ The biggest drawback of gastrointestinal organoids, whether enteroid or colonoid
 
 [Meet BioFAB Four](/Bioplotting-Crypts/meet-the-team)
 
+[Intellectual Property Notice](/Bioplotting-Crypts/Licensing-Information)
