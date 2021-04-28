@@ -30,7 +30,7 @@ The coreXY system operates with a two belt system driven by two NEMA-17 motors. 
 ![CoreXY](/Bioplotter-Assembly-Pictures/coreXY.png)
 
 ### Extruder Design
-The extruder system relies on a syringe pump system. The syringe pump system is attached to the print head by PVC tubing such that the syringe pump can rest beside the printer as opposed to attaching the syringe to the print head, reducing the burden of weight on our printer. The tubing is flexible enough to be run up to and move with the print head during operation while being rigid enough to not cause hysteresis, as may be seen with more flexible tubing. The syringe pump is driven by a NEMA-17-based linear actuator. By implementing a microstepping method to achieve a sixteenth of a step for the motor rotation, we achieve smaller interval motions of the plunger driver and, as a result, higher extrusion resolution. With the current materials used (i.e., the threaded rod with a pitch of 1.25mm), this syringe pump system enables us to achieve an extrusion resolution of 0.45uL per rotation. For more information regarding the syringe pump employed for this design, visit the [Syringe Pump website](https://daltonjay.github.io/Syringe-Pump/). Components for building the syringe pump have been included in the bill of materials. 
+The extruder system relies on a syringe pump system. The syringe pump system is attached to the print head by PVC tubing such that the syringe pump can rest beside the printer as opposed to attaching the syringe to the print head, reducing the burden of weight on our printer. PVC tubing will be fit with a needle for the extrusion to be targeted as desired for the print job. The needle friction fits into the print head. The tubing is flexible enough to be run up to and move with the print head during operation while being rigid enough to not cause hysteresis, as may be seen with more flexible tubing. The syringe pump is driven by a NEMA-17-based linear actuator. By implementing a microstepping method to achieve a sixteenth of a step for the motor rotation, we achieve smaller interval motions of the plunger driver and, as a result, higher extrusion resolution. With the current materials used (i.e., the threaded rod with a pitch of 1.25mm), this syringe pump system enables us to achieve an extrusion resolution of 0.45uL per rotation. For more information regarding the syringe pump employed for this design, visit the [Syringe Pump website](https://daltonjay.github.io/Syringe-Pump/). Components for building the syringe pump have been included in the bill of materials. 
 
 ![Syringe Pump Extrusion](/Bioplotter-Assembly-Pictures/Syringe-Pump-v5.png)
 
@@ -75,6 +75,12 @@ Item         | Quantity  | Cost (per unit)
 
 
 ## 3D Modeled Parts
+
+### Stage
+
+### Print Head Cassette
+
+### Casing
 
 [Home](/Bioplotting-Crypts/index)
 
