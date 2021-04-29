@@ -16,7 +16,7 @@ Nicole works as a Biomedical Engineer for the Dept of Physics at Vanderbilt Univ
 
 Dalton is a PhD student in the Department of Biomedical Engineering at Vanderbilt University. As a member of the Haselton Lab, Dalton's research focuses on the development of infectious disease diagnostics for resource-constrained settings. His current work is on the development of nucleic acid based assays for detection of single nucleotide polymorphisms indicative of states of interset (e.g., HIV drug resistances). However, Dalton's interest span across many areas related to biomedical engineering and beyond, including mathematics, scientific computing, electronics, and philosophy. Dalton loves to run, bike, hike, and argue for sport. 
 
-![Dalton](/Team/dn_1.JPG)
+![Dalton J. Nelson](/Team/dn_1.JPG)
 
 ## Nicholas A. K. Spurlock
 
